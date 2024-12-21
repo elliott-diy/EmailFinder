@@ -34,8 +34,5 @@ python script_name.py --username elliott-diy --token ghp_your_personal_token
 A web version of this tool is in the works! Check out my website for updates: [elliott.diy](https://elliott.diy).
 
 ---
-**Disclaimer**: Please use this tool responsibly and ethically. Avoid scraping data without proper authorization.
-
----
-Built with ❤️ and ☕ by Elliott. Enjoy hacking responsibly!
+Built with ❤️ and ☕ by Elliott. 
 
