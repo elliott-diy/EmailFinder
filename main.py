@@ -51,7 +51,7 @@ def get_emails(username, token):
 
 
 def main():
-    HARDCODED_TOKEN = ""  # Set your token here if you don't want to retype it every time
+    HARDCODED_TOKEN = ""  # Set your token here if you don't want to retype it every time.
 
     parser = argparse.ArgumentParser(description="Fetch emails from GitHub commits by author username.")
     parser.add_argument("-u", "--username", required=True, help="GitHub username to search commits for.")
