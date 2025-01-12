@@ -1,6 +1,7 @@
 # GitHub Email Finder
 
 A simple command-line application to fetch email addresses from GitHub commits by author username. 
+Join https://discord.gg/binary for support.
 
 ## Features
 - Fetch email addresses from public GitHub commits.
