@@ -12,13 +12,13 @@ Join https://discord.gg/binary for support.
 1. Clone the repository.
 2. Run the script with the required arguments:
    ```bash
-   python script_name.py --username <GitHub Username> --token <GitHub Token>
+   python main.py --username <GitHub Username> --token <GitHub Token>
    ```
 3. Alternatively, set your token in the `HARDCODED_TOKEN` variable in the script.
 
 ## Example
 ```bash
-python script_name.py --username elliott-diy --token ghp_your_personal_token
+python main.py --username elliott-diy --token ghp_your_personal_token
 ```
 
 ## Notes
