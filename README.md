@@ -2,6 +2,13 @@
 
 A simple command-line application to fetch email addresses from GitHub commits by author username. 
 
+## Hosted Version
+
+Try the web-based version here!:
+ https://elliott.diy/projects/github/
+
+No install. No hassle. Just enter a username and get results.
+
 ## Features
 - Fetch email addresses from public GitHub commits.
 - Easy-to-use CLI interface.
