@@ -24,7 +24,7 @@ No install. No hassle. Just enter a username and get results.
 
 ## Example
 ```bash
-python main.py --username elliott-diy --token ghp_your_personal_token
+python main.py --username octocat --token ghp_your_personal_token
 ```
 
 ## Notes
